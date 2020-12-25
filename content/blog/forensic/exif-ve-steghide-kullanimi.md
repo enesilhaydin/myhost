@@ -2,7 +2,7 @@
 title: Adli Bilişim Alanında Exif ve Steghide Araçlarının Kullanımı
 date: 2020-12-25 19:43:01
 category: forensic
-thumbnail: 'logitech.png'
+thumbnail: 'exif.png'
 draft: false
 ---
 
