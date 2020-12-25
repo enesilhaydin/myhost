@@ -6,9 +6,6 @@ thumbnail: 'logitech.png'
 draft: false
 ---
 
-
-## **Adli Bilişim Alanında Exif ve Steghide Araçlarının Kullanımı**
-
 ![](https://cdn-images-1.medium.com/max/2000/1*n9UuKpBkhryF4K8i96subg.png)
 
 ## **1.GİRİŞ**
