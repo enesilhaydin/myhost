@@ -1,6 +1,6 @@
 ---
 title: Raspberry MTQQ Server Kurulumu
-date: 2020-12-25 19:43:01
+date: 2021-10-04 11:40:01
 category: raspberry
 thumbnail: 'exif.png'
 draft: false
