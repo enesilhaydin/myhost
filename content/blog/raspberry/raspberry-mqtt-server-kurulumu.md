@@ -1,7 +1,7 @@
 ---
-title: Adli Bilişim Alanında Exif ve Steghide Araçlarının Kullanımı
+title: Raspberry MTQQ Server Kurulumu
 date: 2020-12-25 19:43:01
-category: forensic
+category: raspberry
 thumbnail: 'exif.png'
 draft: false
 ---
